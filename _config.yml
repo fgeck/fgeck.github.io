@@ -1,0 +1,179 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Florian Geckeler
+title: Senior Cloud Developer
+email: f.geckeler@gmail.com
+
+# Dark Mode (true/false/never)
+darkmode: true
+
+# Social links
+github_username: fgeck
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+linkedin_username: florian-geckeler-436668127
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name is Florian and I'm a senior Cloud angineer currently working at SAP Hana Cloud.
+  I am developing python tools to manage the whole lifecycle of [Gardener](https://github.com/gardener/gardener) based kubernetes clusters, as well as Golang based Kubernetes Operators and Microservices supporting SAP Hana Cloud.
+  I am most skilled in: 
+  <p align="left">
+  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
+  <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+  </p>
+
+content:
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: PodcastMaker
+        link: github.com/fgeck/https://github.com/fgeck/PodcastMaker
+        quote: >
+          Make Podcasts for everything
+        description: | # this will include new lines to allow paragraphs
+          A golang webserver which reads files and creates podcastfeeds based on the filenames.
+          Can be configured and used together with youtube-dl to download a youtube channel and transform into a consumable podcast.
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: SAP SE
+        link: https://www.sap.com/
+        link_text: SAP
+        sub_title: Senior Cloud Developer
+        caption: March 2021 - Present
+        quote: >
+          Backup & Recovery Cloud Services at scale & Kubernetes Cluster Management for Developers
+        description: | # this will include new lines to allow paragraphs
+            Design, development and maintenance of golang based Kubernetes Operators to offer Hana Cloud's Backup & Recovery services at large scale.
+            Architecture, implementation and maintenance of a python based framework for lifecycle management of gardener based kubernetes clusters as well as deployment of software in managed clusters.
+      - layout: left
+        title: SAP SE
+        link: https://www.sap.com/
+        link_text: SAP
+        sub_title: Cloud Developer
+        caption: March 2020 - February 2021
+        quote: >
+          Offering Backup & Recovery Cloud Services at scale
+        description: | # this will include new lines to allow paragraphs
+            Design, development and maintenance of golang based Kubernetes Operators to offer Hana Cloud's Backup & Recovery services at large scale.
+      - layout: left
+        title: SAP SE
+        link: https://www.sap.com/
+        link_text: SAP
+        sub_title: Associate Developer for Cloud Application Development
+        caption: Ocotber 2018 - February 2020
+        quote: >
+          Out of the Box CI/CD solution for SAP S4/Hana Cloud Applications running in CloudFoundry
+        description: | # this will include new lines to allow paragraphs
+            Implementation, maintenance and customer onboarding of an open source Jenkins based CI/CD Pipeline for SAP S4/Hana Cloud Applications.
+      - layout: left
+        title: SAP SE
+        link: https://www.sap.com/
+        link_text: SAP
+        sub_title: Working Student Infrastructure as a Service
+        caption: March 2017 - September 2018
+        quote: >
+          CI/CD Toolbox for SAP products
+        description: | # this will include new lines to allow paragraphs
+            Development of groovy and bash based CI/CD system used for tooling solutions of Hana e.g. "Hana Cockpit".
+      - layout: left
+        title: Netzgesellschaft Berlin Brandenburg mbH & Co. KG
+        link: https://www.nbb-netzgesellschaft.de/
+        link_text: NBB
+        sub_title: Working Student IT Project Management
+        caption: September 2015 - February 2017
+        quote: >
+          Mobile Workforce Management solutions
+        description: | # this will include new lines to allow paragraphs
+            Building XML based workflows to digitise documentation processes needed for construction of gas pipelines.
+            Onboarding workflows with the civil engineering companies as well as other subsidiaries.
+
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Hochschule für Technik und Wirtschaft Berlin
+        caption: October 2015 - September 2018
+        sub_title: BSc Business Computing
+        description: | # this will include new lines to allow paragraphs
+          During my time at HTW Berlin I learned the basics in Software engineering, Databases and workflow automations.
+      - layout: left
+        title: OSZ Industrie- und Datenverarbeitung Berlin
+        caption: Spetember 2012 - January 2015
+        sub_title: Industrial Business Management Assistant (IHK)
+      - layout: left
+        title: Universität Leipzig
+        caption: September 2014 - Ocotber 2014
+        sub_title: Agent for Energy- and Watermanagement (IHK)
+      - layout: left
+        title: Kurfürst Ruprecht Gymnasium Neustadt an der Weinstrasse
+        caption: 08/2002 - 03/2011
+        sub_title: High School Diploma
+
+
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in software engineering some of my other interests and hobbies are:
+      - Kitesurfing
+      - Travelling
+
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
