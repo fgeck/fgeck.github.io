@@ -45,36 +45,85 @@ linkedin_username: florian-geckeler-436668127
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Florian and I'm a senior Cloud angineer currently working at SAP Hana Cloud.
-  I am developing python tools to manage the whole lifecycle of [Gardener](https://github.com/gardener/gardener) based kubernetes clusters, as well as Golang based Kubernetes Operators and Microservices supporting SAP Hana Cloud.
-  I am most skilled in: 
+  Hi, my name is Florian and I'm a Senior Cloud Developer currently working at SAP.
+  I am developing python tools to manage the lifecycle of [Gardener](https://github.com/gardener/gardener) based Kubernetes clusters. Besides that I was resposible for implementing and operating Golang based Kubernetes Operators and Microservices which support SAP Hana Cloud's Backup & Recovery services at a large scale.
+
+  I am experienced in:
+
   <p align="left">
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
-  <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+    <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="55" height="55"/> </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/> </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="55" height="55"/> </a>
+    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/> </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="55" height="55"/> </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> </a>
+    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="55" height="55"/> </a> 
+    <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="55" height="55"/> </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/> </a>
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="55" height="55"/> </a> 
+    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/> </a>
+    <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberry" width="55" height="55"/> </a>
+  </p>
+
+
+  I want to learn:
+
+  <p>
+    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="55" height="55"/> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="55" height="55"/> </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55"/> </a>
+    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="55" height="55"/> </a>
   </p>
 
 content:
+  - title: Certificates
+    layout: list
+    content:
+      - layout: top-middle
+        title: Certified Kubernetes Administrator
+        description: |
+          <center>
+            <a href="http://www.credly.com/badges/43d70d42-6522-4f51-a6a4-436e0acc9f03" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/100x100/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="100" height="100"/> </a>
+          </center>
+      - layout: top-middle
+        title: Certified Kubernetes Application Developer
+        description: |
+          <center>
+            <a href="http://www.credly.com/badges/0e1ee1df-c14e-4a13-ba79-f6e0d60b60db" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/100x100/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="CKAD: Certified Kubernetes Application Developer" width="100" height="100"/> </a>
+          </center>
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: SAP S4 Cloud SDK Pipeline
+        link: https://github.com/SAP/cloud-s4-sdk-pipeline
+        quote: >
+          Opinionated Jenkins CI/CD Pipeline
+        description: | # this will include new lines to allow paragraphs
+          Out of the box CI/CD Pipeline which can be usedfor SAP S4/Hana Cloud applications. This project is merged to Project-Piper now.
+      - layout: top-middle
+        title: SAP S4 Cloud SDK Pipeline Library
+        link: https://github.com/SAP/cloud-s4-sdk-pipeline-lib
+        quote: >
+          Library built and used for SAP S4 Cloud SDK Pipeline
+        description: | # this will include new lines to allow paragraphs
+          Library for SAP S4 Cloud SDK Pipeline. This project is merged to Project-Piper now.
+      - layout: top-middle
+        title: Project Piper
+        link: https://github.com/SAP/jenkins-library
+        quote: >
+          The go-to Jenkins library offered by SAP
+        description: | # this will include new lines to allow paragraphs
+          SAP's most prominent library for Jenkins pipelines where I contributed features and helped merging title: SAP S4 Cloud SDK Pipeline as well as the title: SAP S4 Cloud SDK Pipeline Library into Project Piper.
+      - layout: top-middle
         title: PodcastMaker
-        link: github.com/fgeck/https://github.com/fgeck/PodcastMaker
+        link: https://github.com/fgeck/PodcastMaker
         quote: >
           Make Podcasts for everything
         description: | # this will include new lines to allow paragraphs
           A golang webserver which reads files and creates podcastfeeds based on the filenames.
-          Can be configured and used together with youtube-dl to download a youtube channel and transform into a consumable podcast.
+          Can be configured and used together with youtube-dl to e.g. download a youtube channel and transform it into a consumable podcast.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -88,8 +137,8 @@ content:
         quote: >
           Backup & Recovery Cloud Services at scale & Kubernetes Cluster Management for Developers
         description: | # this will include new lines to allow paragraphs
-            Design, development and maintenance of golang based Kubernetes Operators to offer Hana Cloud's Backup & Recovery services at large scale.
-            Architecture, implementation and maintenance of a python based framework for lifecycle management of gardener based kubernetes clusters as well as deployment of software in managed clusters.
+          Design, development and maintenance of golang based Kubernetes Operators to offer Hana Cloud's Backup & Recovery services at large scale.
+          Architecture, implementation and maintenance of a python based framework for lifecycle management of gardener based kubernetes clusters as well as deployment of software in managed clusters.
       - layout: left
         title: SAP SE
         link: https://www.sap.com/
@@ -99,7 +148,7 @@ content:
         quote: >
           Offering Backup & Recovery Cloud Services at scale
         description: | # this will include new lines to allow paragraphs
-            Design, development and maintenance of golang based Kubernetes Operators to offer Hana Cloud's Backup & Recovery services at large scale.
+          Design, development and maintenance of golang based Kubernetes Operators to offer Hana Cloud's Backup & Recovery services at large scale.
       - layout: left
         title: SAP SE
         link: https://www.sap.com/
@@ -109,7 +158,7 @@ content:
         quote: >
           Out of the Box CI/CD solution for SAP S4/Hana Cloud Applications running in CloudFoundry
         description: | # this will include new lines to allow paragraphs
-            Implementation, maintenance and customer onboarding of an open source Jenkins based CI/CD Pipeline for SAP S4/Hana Cloud Applications.
+          Implementation, maintenance and customer onboarding of an open source Jenkins based CI/CD Pipeline for SAP S4/Hana Cloud Applications.
       - layout: left
         title: SAP SE
         link: https://www.sap.com/
@@ -119,7 +168,7 @@ content:
         quote: >
           CI/CD Toolbox for SAP products
         description: | # this will include new lines to allow paragraphs
-            Development of groovy and bash based CI/CD system used for tooling solutions of Hana e.g. "Hana Cockpit".
+          Development of groovy and bash based CI/CD system used for tooling solutions of Hana e.g. "Hana Cockpit".
       - layout: left
         title: Netzgesellschaft Berlin Brandenburg mbH & Co. KG
         link: https://www.nbb-netzgesellschaft.de/
@@ -129,32 +178,28 @@ content:
         quote: >
           Mobile Workforce Management solutions
         description: | # this will include new lines to allow paragraphs
-            Building XML based workflows to digitise documentation processes needed for construction of gas pipelines.
-            Onboarding workflows with the civil engineering companies as well as other subsidiaries.
-
+          Building XML based workflows to digitise documentation processes needed for construction of gas pipelines.
+          Onboarding workflows with the civil engineering companies as well as other subsidiaries.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: Hochschule für Technik und Wirtschaft Berlin
         caption: October 2015 - September 2018
         sub_title: BSc Business Computing
-        description: | # this will include new lines to allow paragraphs
-          During my time at HTW Berlin I learned the basics in Software engineering, Databases and workflow automations.
-      - layout: left
+      - layout: top-middle
         title: OSZ Industrie- und Datenverarbeitung Berlin
         caption: Spetember 2012 - January 2015
         sub_title: Industrial Business Management Assistant (IHK)
-      - layout: left
+      - layout: top-middle
         title: Universität Leipzig
         caption: September 2014 - Ocotber 2014
         sub_title: Agent for Energy- and Watermanagement (IHK)
-      - layout: left
+      - layout: top-middle
         title: Kurfürst Ruprecht Gymnasium Neustadt an der Weinstrasse
         caption: 08/2002 - 03/2011
         sub_title: High School Diploma
-
 
   - title: A Little More About Me
     layout: text
@@ -162,7 +207,8 @@ content:
       Alongside my interests in software engineering some of my other interests and hobbies are:
       - Kitesurfing
       - Travelling
-
+      - Mountainbiking
+      - Playing around with Raspberry Pi and my Homeserver e.g. Smart Home Projects or [MagicMirror](https://github.com/MichMich/MagicMirror)
 
 # Footer
 footer_show_references: true
@@ -176,4 +222,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
