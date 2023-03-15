@@ -124,6 +124,27 @@ content:
         description: | # this will include new lines to allow paragraphs
           A golang webserver which reads files and creates podcastfeeds based on the filenames.
           Can be configured and used together with youtube-dl to e.g. download a youtube channel and transform it into a consumable podcast.
+      - layout: top-middle
+        title: Omnifood-Project-Vue-TailwindCSS
+        link: https://github.com/fgeck/html-css-good2know
+        quote: >
+          A learning projeect based on Jonas Schmedtmanns "Build Responsive Real-World Websites with HTML and CSS" Udemy Course
+        description: | # this will include new lines to allow paragraphs
+          To learn frontend development I adapted the project that it is completely build with Vue and TailwindCSS.
+          It is a plain Single Page Application without any Backend functionality, and not the peak of software engineering.
+          The main goal of this project for me was to build a modern website while learning new technologies.
+      - layout: top-middle
+        title: Surfbuddies
+        link: https://github.com/fgeck/surfbuddies
+        quote: >
+          A hobby project to bring Surfschools and Surfinstructors together
+        description: | # this will include new lines to allow paragraphs
+          Work In Progress. The backend is based on Kotlin, SpringBoot and MongoDB, the frontend is written in VueJS and TailwindCSS.
+          As of 15.03.2023 the projects backend offers routes to register and signin users.
+          Signing in is realized via JWT. 
+          The frontend offers views for register, login as well as a header.
+
+
 
   - title: A Little More About Me
     layout: text
